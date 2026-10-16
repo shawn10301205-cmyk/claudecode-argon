@@ -1,0 +1,22 @@
+# Reinstall using the checked-in lockfile.
+node_modules/
+.DS_Store
+
+# Personal state must never be distributed with the Skill.
+.env
+.env.*
+!.env.example
+oauth.json
+auth.json
+credentials.json
+config.json
+gateway-token
+*.log
+*.har
+*.saz
+*.pcap
+*.pcapng
+private-state/
+runtime-state/
+captures/
+sessions/

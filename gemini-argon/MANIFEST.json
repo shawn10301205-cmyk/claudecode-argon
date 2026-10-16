@@ -1,0 +1,101 @@
+{
+  "version": 1,
+  "package": "gemini-argon",
+  "files": [
+    {
+      "path": "SKILL.md",
+      "bytes": 5171,
+      "sha256": "3b5d8ccb22544c65db0fbb08d919447ed38c62377c3b95e42110b98338881f0b"
+    },
+    {
+      "path": "references/setup.md",
+      "bytes": 5160,
+      "sha256": "b7d2919a8a1cdf9c6d0652dcbb123b121adfb70cb67cbbef5adfcd9813c38972"
+    },
+    {
+      "path": "runtime/package-lock.json",
+      "bytes": 2977,
+      "sha256": "851c55a1e9e7ab50d951a2bf0668233438acb6ad9e88b2b8d8a5b9116b7db84c"
+    },
+    {
+      "path": "runtime/package.json",
+      "bytes": 336,
+      "sha256": "4a564b948d00c92750ff8fb8f3aee5d44903f924810b78e6ee2d26b7e9189d25"
+    },
+    {
+      "path": "runtime/scripts/auth-store.mjs",
+      "bytes": 10672,
+      "sha256": "a8a83e6e4eb4283146329055f6375cdeeabc554b25ceab5bef565c896789fcd6"
+    },
+    {
+      "path": "runtime/scripts/claude-argon.mjs",
+      "bytes": 3481,
+      "sha256": "40278b972830ecbeeb1d8ebabac2360842bd75e371f87c4b6cd68bfe6e789b15"
+    },
+    {
+      "path": "runtime/scripts/google-json.mjs",
+      "bytes": 2651,
+      "sha256": "89024a9d74b3d58af368ee4ae46967d106612a9d379826d3d340473b53312051"
+    },
+    {
+      "path": "runtime/scripts/import-app-auth.mjs",
+      "bytes": 10394,
+      "sha256": "30c8e48a1ebed610ea91d9155e11c10cc698ecbd4dddcb1dfe9555118261a700"
+    },
+    {
+      "path": "runtime/scripts/inspect-protobuf.mjs",
+      "bytes": 2991,
+      "sha256": "fb051152d306108ed974fa4118d75702cbaa3c790afca0b97d7f5ddc2330e6f5"
+    },
+    {
+      "path": "runtime/scripts/native-client-config.mjs",
+      "bytes": 2028,
+      "sha256": "f2c99ed99126cf774a7e5a484cdfef0d029a42b57756eb40e6981bf1f5164922"
+    },
+    {
+      "path": "runtime/scripts/native-client.mjs",
+      "bytes": 8324,
+      "sha256": "a32ec2ce8ada8b9e452acbc858f7c1540d415baf7c54e553087dca175ecfa031"
+    },
+    {
+      "path": "runtime/scripts/portable-config.mjs",
+      "bytes": 792,
+      "sha256": "a9888266c2b92719486d77596e748a4a59278f7a118149b14b47601717378e82"
+    },
+    {
+      "path": "runtime/scripts/portable-state.mjs",
+      "bytes": 1147,
+      "sha256": "aff72981d5f0d4c13f28c4c8bf23fd7d6553e9c9f40391e1ec6663a6f8bb43fd"
+    },
+    {
+      "path": "runtime/scripts/portable-template.mjs",
+      "bytes": 3923,
+      "sha256": "95cd11020f9110529b04514c900b29b7436256bed0704038890445d8fe8dd29b"
+    },
+    {
+      "path": "runtime/scripts/proxy-tunnel.mjs",
+      "bytes": 1988,
+      "sha256": "bbfeba97ea2824d9d447b835de9cc6515170bc6f250f65241bffe6f64409a7f0"
+    },
+    {
+      "path": "runtime/scripts/tool-protocol.mjs",
+      "bytes": 14766,
+      "sha256": "10fc1275639d25100d4dd372c19d2339ab0b32846c8e1f6260dd58a0af945f6d"
+    },
+    {
+      "path": "runtime/server.mjs",
+      "bytes": 7941,
+      "sha256": "8f63247a0f46594679e535a0a89273ca95749b92a0c575ea5cb9838597741389"
+    },
+    {
+      "path": "scripts/argon.mjs",
+      "bytes": 14894,
+      "sha256": "f5c0d4c0355d0923dc4a2e6fa995c6fc7d78a50a8d9a9b478680a1ff9d7a2f72"
+    },
+    {
+      "path": "scripts/install-command.mjs",
+      "bytes": 10057,
+      "sha256": "d8a45160cbae98bfd9890f0297dadbd5a400b7439ea48f129c399dcae7198e86"
+    }
+  ]
+}
